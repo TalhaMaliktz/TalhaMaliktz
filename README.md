@@ -25,7 +25,7 @@ I pride myself on providing the highest quality of work, and for me, a project i
 
  📫 How to reach me: 
  - [LinkedIn](https://www.linkedin.com/in/maliktalha/)
- - [Upwork](https://www.upwork.com/freelancers/~0149dd35b7e975819e)
+ - [Upwork](https://www.upwork.com/freelancers/~0149dd35b7e975819e?s=1017484851352698996)
 
 
 I look forward to hearing from you!
