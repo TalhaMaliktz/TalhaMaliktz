@@ -1,3 +1,5 @@
+![Group 1171277057](https://github.com/TalhaMaliktz/TalhaMaliktz/assets/13951043/378070b7-7baa-4e55-bc22-162261f7387e)
+
 ### Hi there 👋
 
 I am a Senior Technical Writer with a master's in Information Security. I have been producing original, articulate, and engaging content for my clients for more than 8 years. My skills include:
