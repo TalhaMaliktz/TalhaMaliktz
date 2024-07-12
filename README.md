@@ -2,28 +2,24 @@
 
 ![Group 1171277057](https://github.com/TalhaMaliktz/TalhaMaliktz/assets/13951043/378070b7-7baa-4e55-bc22-162261f7387e)
 
-I am a Senior Technical Writer with a master's in Information Security. I have been producing original, articulate, and engaging content for my clients for more than 8 years. My skills include:
-
+I am an accomplished Technical Writer holding a master's degree in Information Security and possessing over 9 years of experience in crafting authentic, articulate, and compelling content for a diverse clientele. My proficiencies encompass 
 
 - API Documentation
 - Software Requirement Specifications
-- Diagrams (All kinds of UML diagrams)
+- A comprehensive array of UML diagrams
 - Deployment Guides
 - User Manuals/Guides
 - Release Notes
 - UX Copywriting
-- Agile Themes, Epics, User stories
-- E-books
-- Tutorials (How-tos)
+- Agile Themes, Epics, User Stories
+- E-books, Tutorials
 - Database Design Documents
 - Test Cases
 - White Papers
-- Articles.
-- Technical Reports (Security, Research, Software, etc.)
+- Articles
+- Technical Reports (encompassing Security, Research, and Software). 
 
-Being a researcher myself, I am accustomed to producing content in Latex, Markdown, and other Word processors. I am also skilled in working with the docs as a code philosophy. I have produced various eBooks and technical documents for my clients and their testimonials describe my sheer commitment to my work and to my clients. I also have a few publications to my name, so I know the importance of non-plagiarized, error-free, and concise content. I strongly believe that "the devil lies in the details". So, rest assured I will move heaven and earth to provide you with the quality you expect and pay for.
-
-I pride myself on providing the highest quality of work, and for me, a project is unfinished until the client is satisfied. If this is what you want, then get in touch with me.
+As a seasoned researcher, I am adept at generating content in Latex, Markdown, and various word processors, aligning with the "docs as code" philosophy. My portfolio includes a range of e-books and technical documents, all of which reflect my dedication to delivering non-plagiarized, immaculate, and succinct content. I believe in meticulous attention to detail and strive to provide work of the highest caliber. If you are interested, please feel free to contact me.
 
  📫 How to reach me: 
  - [LinkedIn](https://www.linkedin.com/in/maliktalha/)
