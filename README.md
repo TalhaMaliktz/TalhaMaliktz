@@ -28,4 +28,4 @@ As a seasoned Developer Relations professional, I combine technical expertise wi
 **Let’s Connect!**
 With over a decade of experience in software engineering, technical writing, and developer relations, I’m passionate about empowering developers and driving innovation through education, advocacy, and community building. Whether you’re looking for a speaker for your next event, a collaborator for developer-focused content, or a leader to help grow your developer community, I’d love to explore how we can work together. 🤝
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/maliktalha/) or reach out to me on [Upwork](https://www.upwork.com/freelancers/~0149dd35b7e975819e?s=1017484851352698996)—I’m always excited to engage with new opportunities and like-minded professionals in the tech space! 🚀
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/maliktalha/) or reach out to me on [X](https://x.com/iammtalha)—I’m always excited to engage with new opportunities and like-minded professionals in the tech space! 🚀
