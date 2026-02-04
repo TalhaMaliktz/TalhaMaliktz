@@ -1,7 +1,5 @@
 # Hi there, I'm Muhammad Talha! 👋
 
-![Group 1171277057](https://github.com/TalhaMaliktz/TalhaMaliktz/assets/13951043/378070b7-7baa-4e55-bc22-162261f7387e)
-
 I am a **Senior Developer Relations Manager** with over **10 years of experience** bridging the gap between technology and its users. My career spans **software engineering**, **technical writing**, and **developer advocacy**, where I’ve empowered developers through **education**, **engaging content**, and **community building**. I specialize in simplifying complex concepts, creating impactful resources, and fostering collaboration between developers and organizations to drive innovation and adoption. 🚀
 
 **Core Competencies**
