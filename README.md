@@ -1,29 +1,31 @@
-# Hi there, I'm Muhammad Talha! 👋
+# Hi, I'm Talha! 👋
 
-I am a **Senior Developer Relations Manager** with over **10 years of experience** bridging the gap between technology and its users. My career spans **software engineering**, **technical writing**, and **developer advocacy**, where I’ve empowered developers through **education**, **engaging content**, and **community building**. I specialize in simplifying complex concepts, creating impactful resources, and fostering collaboration between developers and organizations to drive innovation and adoption. 🚀
+> **Senior Developer Advocate & API Engineer**
+> *Specializing in Developer Support, Ecosystem Migration, and "Zero-to-One" Engineering.*
 
-**Core Competencies**
+I describe myself as a **Technical Enabler** - an engineer who sits at the intersection of Core Product and Ecosystem Growth. My background spans strict **Enterprise Engineering (C#/.NET)** and **Modern Decentralized Architectures**, allowing me to bridge the gap between legacy infrastructure and modern tooling.
 
-- **Developer Education**: Designing and leading workshops, tutorials, and training programs to upskill developers. 📚
-- **Technical Writing**: Crafting API documentation, user manuals, white papers, and technical reports. ✍️
-- **Public Speaking**: Delivering keynotes and presentations at global conferences to inspire and educate technical audiences. 🎤
-- **Community Building**: Building and nurturing developer communities, gathering feedback, and advocating for their needs. 🤝
-- **Software Engineering**: Hands-on experience with Java, C#, JavaScript, and Web3 technologies, including Solidity for smart contract development. 💻
+I don't just "support" developers; I architect the systems that allow them to build, scale, and remain secure.
 
-**Technical Expertise**
+### 🚀 What I Do
+* **Ecosystem Architecture:** Managing "Technical Source of Truth" during high-stakes migrations (e.g., L1 to L2 migration strategies).
+* **"Customer Zero" Engineering:** Maintaining scaffolders, validating SDKs, and building the "Golden Path" reference implementations.
+* **Incubation & Activation:** Designing technical curriculums for Hackathons and Incubators to stress-test developer tooling in the wild.
+* **Technical Support Lead:** Owning escalation flows, debugging integration friction, and implementing AI-driven support automation.
+* **Docs-as-Code:** Treating documentation as a product using Docusaurus, Markdown, and automated CI/CD workflows.
 
-With a decade of experience, I bring a strong technical foundation, including expertise in:
+### 🛠 Technical Stack
+* **Languages:** Node.js, TypeScript, C# (.NET), Solidity (Foundry/Hardhat).
+* **Architecture:** REST/GraphQL API Design, EVM Architecture, Optimistic Rollups.
+* **Frontend:** React.js, Docusaurus, MVC Architecture.
+* **Backend & Data:** SQL, Windows Server/IIS, SDK Integration Strategy.
 
-- **Programming Languages**: C#, Java, JavaScript, and Solidity. 🖥️
-- **Web3 Development**: Building decentralized applications (dApps) and smart contracts on blockchain platforms. ⛓️
-- **Front-End Development**: Proficient in modern front-end frameworks and tools. 🎨
-- **API Design & Integration**: Deep understanding of RESTful APIs, SDKs, and developer tools. 🔗
-- **Documentation Tools**: Fluent in LaTeX, Markdown, and modern documentation platforms, adhering to the "docs as code" philosophy. 📄
+### 🎤 Global Workshops & Advocacy
+I travel globally to deliver **Technical Workshops**, not just keynote fluff. My goal is to take developers from *listening* to *deploying* in under an hour.
+* **Key Topics:** Zero-to-One dApp Deployment, Migrating Web2 APIs to Web3, Security Best Practices.
+* **Field Work:** Technical Mentor for startups at **CV Labs**, **AyaHQ**, **SUCI x Lisk Hub** and **Lisk Spark** incubators.
 
-**Why Work With Me?**
-As a seasoned Developer Relations professional, I combine technical expertise with a passion for education and community building. Whether I’m writing documentation, delivering a keynote, or leading a workshop, my goal is to make technology accessible and inspire developers to innovate. My commitment to quality, developer advocacy, and strategic leadership ensures that every initiative delivers exceptional value. 🌟
+---
+*"My goal isn't just to get developers to use a product; it's to ensure they don't get stuck while using it."*
 
-**Let’s Connect!**
-With over a decade of experience in software engineering, technical writing, and developer relations, I’m passionate about empowering developers and driving innovation through education, advocacy, and community building. Whether you’re looking for a speaker for your next event, a collaborator for developer-focused content, or a leader to help grow your developer community, I’d love to explore how we can work together. 🤝
-
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/maliktalha/) or reach out to me on [X](https://x.com/iammtalha)—I’m always excited to engage with new opportunities and like-minded professionals in the tech space! 🚀
+[LinkedIn](https://www.linkedin.com/in/iammtalha) | [X (Twitter)](https://x.com/iammtalha)
