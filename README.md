@@ -16,7 +16,7 @@ I don't just "support" developers; I architect the systems that allow them to bu
 
 ### 🛠 Technical Stack
 * **Languages:** Node.js, TypeScript, C# (.NET), Solidity (Foundry/Hardhat).
-* **Architecture:** REST/GraphQL API Design, EVM Architecture, Optimistic Rollups.
+* **Architecture:** Layer 2 Scaling, REST/GraphQL API Design, EVM Architecture, Optimistic Rollups.
 * **Frontend:** React.js, Docusaurus, MVC Architecture.
 * **Backend & Data:** SQL, Windows Server/IIS, SDK Integration Strategy.
 
