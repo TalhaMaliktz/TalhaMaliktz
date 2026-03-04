@@ -28,4 +28,4 @@ I travel globally to deliver **Technical Workshops**, not just keynote fluff. My
 ---
 *"My goal isn't just to get developers to use a product; it's to ensure they don't get stuck while using it."*
 
-[LinkedIn](https://www.linkedin.com/in/iammtalha) | [X (Twitter)](https://x.com/iammtalha)
+[LinkedIn](https://www.linkedin.com/in/iammtalha) | [X (Twitter)](https://x.com/iammtalha) | [YouTube](https://www.youtube.com/@iammtalha)
