@@ -1,31 +1,31 @@
-# Hi, I'm Talha! 👋
+# Talha | Forward Deployed Engineer & AI Architect
 
-> **Senior Developer Advocate & API Engineer**
-> *Specializing in Developer Support, Ecosystem Migration, and "Zero-to-One" Engineering.*
+> **Designing Deterministic State Machines & Verifiable Enterprise Infrastructure.**
+> *M.S. Information Security (Batch Topper) | Ex-Venture Fund Tech Gatekeeper*
 
-I describe myself as a **Technical Enabler** - an engineer who sits at the intersection of Core Product and Ecosystem Growth. My background spans strict **Enterprise Engineering (C#/.NET)** and **Modern Decentralized Architectures**, allowing me to bridge the gap between legacy infrastructure and modern tooling.
+I am a Forward Deployed Engineer (FDE) bridging the gap between raw AI capabilities and strict enterprise governance. I do not build unbounded AI wrappers. I architect secure, event-driven systems that allow enterprises to deploy agentic workflows without leaking proprietary data or burning API budgets.
 
-I don't just "support" developers; I architect the systems that allow them to build, scale, and remain secure.
+By treating AI as code bounded by zero-trust architectures, I bring the transparency and cryptographic verifiability of decentralized networks directly to enterprise data pipelines.
 
-### 🚀 What I Do
-* **Ecosystem Architecture:** Managing "Technical Source of Truth" during high-stakes migrations (e.g., L1 to L2 migration strategies).
-* **"Customer Zero" Engineering:** Maintaining scaffolders, validating SDKs, and building the "Golden Path" reference implementations.
-* **Incubation & Activation:** Designing technical curriculums for Hackathons and Incubators to stress-test developer tooling in the wild.
-* **Technical Support Lead:** Owning escalation flows, debugging integration friction, and implementing AI-driven support automation.
-* **Docs-as-Code:** Treating documentation as a product using Docusaurus, Markdown, and automated CI/CD workflows.
+### 🏗️ Currently Building in Public
+**[talhamaliktz/smart-docs](https://github.com/talhamaliktz/smart-docs)** 
+Open-sourcing an enterprise-grade, verifiable RAG architecture.
+*   **Agentic Orchestration:** Managing deterministic state machines and isolated local vector pipelines using LangGraph and Python.
+*   **Asynchronous Resilience:** Decoupling ingestion using event-driven infrastructure (NestJS, Redis, BullMQ) to safely parse massive datasets without blocking the main event loop.
+*   **Zero-Cost Embedding:** Implementing `pgvector` isolation for absolute data sovereignty.
 
-### 🛠 Technical Stack
-* **Languages:** Node.js, TypeScript, C# (.NET), Solidity (Foundry/Hardhat).
-* **Architecture:** Layer 2 Scaling, REST/GraphQL API Design, EVM Architecture, Optimistic Rollups.
-* **Frontend:** React.js, Docusaurus, MVC Architecture.
-* **Backend & Data:** SQL, Windows Server/IIS, SDK Integration Strategy.
+### 🛡️ Core FDE Capabilities
+*   **Verifiable Agentic Systems:** Designing AI infrastructure that outputs cryptographically traceable, auditable results rather than probabilistic hallucinations.
+*   **The Frugal Architect Engine:** Optimizing compute from bare-metal Ubuntu environments and M-series silicon up to the cloud layer, preventing enterprise token burn through lean engineering.
+*   **Track Record in Technical Due Diligence:** Previously at Lisk, I acted as the technical gatekeeper for a $15M VC fund and global incubation partners (CV Labs, AyaHQ, AngelHack, SUCI). I audited, stress-tested, and scaled startups from prototype to production. I now apply this exact institutional rigor to de-risk enterprise AI stacks.
 
-### 🎤 Global Workshops & Advocacy
-I travel globally to deliver **Technical Workshops**, not just keynote fluff. My goal is to take developers from *listening* to *deploying* in under an hour.
-* **Key Topics:** Zero-to-One dApp Deployment, Migrating Web2 APIs to Web3, Security Best Practices.
-* **Field Work:** Technical Mentor for startups at **CV Labs**, **AyaHQ**, **SUCI x Lisk Hub** and **Lisk Spark** incubators.
+### 🛠️ The Sovereign Stack
+*   **Backend & Orchestration:** NestJS, Python, Node.js, TypeScript.
+*   **Asynchronous Infra:** Redis, BullMQ, Event-Driven Architecture.
+*   **Data & Vector Storage:** PostgreSQL, `pgvector`, Prisma.
+*   **Provability & Web3:** EVM Architecture, Distributed Ledger Technology, Smart Contract Security.
 
 ---
-*"My goal isn't just to get developers to use a product; it's to ensure they don't get stuck while using it."*
+*"AI is moving faster than enterprise compliance. I build the guardrails."*
 
 [LinkedIn](https://www.linkedin.com/in/iammtalha) | [X (Twitter)](https://x.com/iammtalha) | [YouTube](https://www.youtube.com/@iammtalha)
