@@ -8,7 +8,7 @@ I am a Forward Deployed Engineer (FDE) bridging the gap between raw AI capabilit
 By treating AI as code bounded by zero-trust architectures, I bring the transparency and cryptographic verifiability of decentralized networks directly to enterprise data pipelines.
 
 ### 🏗️ Currently Building in Public
-**[tenet-backend](https://github.com/TalhaMaliktz/tenet-backend)** 
+**[verifiable-core](https://github.com/TalhaMaliktz/verifiable-core)** 
 Open-sourcing an enterprise-grade, verifiable RAG architecture.
 *   **Agentic Orchestration:** Managing deterministic state machines and isolated local vector pipelines using LangGraph and Python.
 *   **Asynchronous Resilience:** Decoupling ingestion using event-driven infrastructure (NestJS, Redis, BullMQ) to safely parse massive datasets without blocking the main event loop.
